@@ -1,0 +1,14 @@
+*env/
+venv/
+data/train/
+new_env/
+extra_files/*
+__pycache__/*
+Scripts/
+.streamlit/secrets.toml
+*env*
+deepface/*
+*day*
+.vscode/
+*face_day4/
+config.yaml

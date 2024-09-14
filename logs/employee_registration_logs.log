@@ -1,46 +1,73 @@
-[2024-09-14 19:43:33,721: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:43:35,293: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:43:50,263: WARNING: module_wrapper]: From D:\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+[2024-09-14 20:04:15,463: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:16,834: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:31,368: WARNING: module_wrapper]: From D:\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
 
-[2024-09-14 19:43:52,573: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:43:52,573: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:43:52,611: INFO: app]: Registration method selected: Select
-[2024-09-14 19:43:52,611: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:44:00,480: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:44:00,480: INFO: app]: Registration method selected: ID Card Registration
-[2024-09-14 19:44:00,480: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:44:13,701: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:44:13,707: INFO: app]: Registration method selected: ID Card Registration
-[2024-09-14 19:44:13,707: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:44:15,787: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:44:15,788: INFO: app]: Registration method selected: View Registered Employees
-[2024-09-14 19:44:15,789: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:44:40,321: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:44:40,326: INFO: app]: Registration method selected: Manual Registration
-[2024-09-14 19:44:40,327: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:45:01,959: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:45:01,963: INFO: app]: Registration method selected: ID Card Registration
-[2024-09-14 19:45:01,964: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:45:04,487: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:45:04,489: INFO: app]: Registration method selected: View Registered Employees
-[2024-09-14 19:45:04,489: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:46:55,923: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:46:56,585: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:03,147: WARNING: module_wrapper]: From D:\Python311\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
-
-[2024-09-14 19:47:03,588: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:03,588: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:03,588: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:03,588: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:03,588: INFO: app]: Registration method selected: Select
-[2024-09-14 19:47:03,588: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:47:03,599: INFO: app]: Registration method selected: Select
-[2024-09-14 19:47:03,715: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:47:03,871: INFO: app]: Registration method selected: Select
-[2024-09-14 19:47:03,872: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:47:08,699: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:08,699: INFO: app]: Registration method selected: ID Card Registration
-[2024-09-14 19:47:08,699: INFO: create_database]: Table 'employees' already exists.
-[2024-09-14 19:47:10,969: INFO: utils]: YML  file: config.yaml loaded successfully
-[2024-09-14 19:47:10,969: INFO: app]: Registration method selected: View Registered Employees
-[2024-09-14 19:47:10,969: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:33,004: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:33,004: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:33,004: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:33,018: INFO: app]: Registration method selected: Select
+[2024-09-14 20:04:33,018: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:36,468: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:36,468: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:04:36,468: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:43,349: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:43,354: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:04:43,355: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:48,118: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:48,127: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:04:48,128: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:51,528: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:04:51,530: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:04:51,531: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:04:51,541: INFO: app]: Face image loaded.
+[2024-09-14 20:04:51,543: INFO: app]: ID card image loaded.
+[2024-09-14 20:04:51,550: INFO: preprocess]: contours are found at, (0, 64, 421, 555)
+[2024-09-14 20:04:51,550: INFO: utils]: File is exists for D:\Deep Learning\Computer Vision Projects\e_KYC\Employee-Registration-Automation-main\data\02_intermediate_data\contour_id.jpg
+[2024-09-14 20:04:51,557: INFO: app]: ID card ROI extracted.
+[2024-09-14 20:04:51,726: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:04:51,726: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:04:51,726: INFO: app]: Faces extracted and saved.
+[2024-09-14 20:04:51,726: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:04:51,726: INFO: utils]: File is exists for D:\Deep Learning\Computer Vision Projects\e_KYC\Employee-Registration-Automation-main\data\02_intermediate_data\extracted_face.jpg
+[2024-09-14 20:04:55,409: INFO: app]: Face verification status: successful.
+[2024-09-14 20:04:55,409: INFO: ocr_engine]: Text Extraction Started...
+[2024-09-14 20:04:55,409: INFO: ocr_engine]: Inside Try-Catch...
+[2024-09-14 20:04:56,169: INFO: postprocess]: Starting information extraction (GenAI).
+[2024-09-14 20:04:56,169: INFO: postprocess]: Inside Try Except for information extraction (GenAI).
+[2024-09-14 20:06:04,989: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:05,029: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:05,040: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:05,040: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:05,040: INFO: app]: Registration method selected: Select
+[2024-09-14 20:06:05,053: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:06:07,115: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:07,115: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:06:07,115: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:06:16,949: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:16,954: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:06:16,955: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:06:22,662: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:22,662: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:06:22,662: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:06:23,807: INFO: utils]: YML  file: config.yaml loaded successfully
+[2024-09-14 20:06:23,809: INFO: app]: Registration method selected: ID Card Registration
+[2024-09-14 20:06:23,810: INFO: create_database]: Table 'employees' already exists.
+[2024-09-14 20:06:23,836: INFO: app]: Face image loaded.
+[2024-09-14 20:06:23,836: INFO: app]: ID card image loaded.
+[2024-09-14 20:06:23,851: INFO: preprocess]: contours are found at, (0, 0, 747, 628)
+[2024-09-14 20:06:23,851: INFO: utils]: File is exists for D:\Deep Learning\Computer Vision Projects\e_KYC\Employee-Registration-Automation-main\data\02_intermediate_data\contour_id.jpg
+[2024-09-14 20:06:23,860: INFO: app]: ID card ROI extracted.
+[2024-09-14 20:06:23,962: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:06:23,968: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:06:23,968: INFO: app]: Faces extracted and saved.
+[2024-09-14 20:06:23,968: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:06:23,969: INFO: utils]: File is exists for D:\Deep Learning\Computer Vision Projects\e_KYC\Employee-Registration-Automation-main\data\02_intermediate_data\extracted_face.jpg
+[2024-09-14 20:06:25,396: INFO: app]: Face verification status: successful.
+[2024-09-14 20:06:25,396: INFO: ocr_engine]: Text Extraction Started...
+[2024-09-14 20:06:25,396: INFO: ocr_engine]: Inside Try-Catch...
+[2024-09-14 20:06:25,729: INFO: postprocess]: Starting information extraction (GenAI).
+[2024-09-14 20:06:25,729: INFO: postprocess]: Inside Try Except for information extraction (GenAI).
+[2024-09-14 20:06:29,938: INFO: postprocess]: Extracted information (GenAI)
+[2024-09-14 20:06:29,939: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg
+[2024-09-14 20:06:30,735: ERROR: postprocess]: An error occurred during text extraction (GenAI): list index out of range
+[2024-09-14 20:06:30,735: INFO: utils]: File is exists for data\02_intermediate_data\face_image.jpg

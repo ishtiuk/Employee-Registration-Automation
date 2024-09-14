@@ -24,8 +24,8 @@ def extract_text(image_path, languages='eng'):
 
         # Replace newlines with '*' to maintain a similar format to the original function
         filtered_text = "*".join(result.splitlines()) + "*"
-        filtered_text = ''.join([char if char in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789:-/*@ " else '' for char in filtered_text])
-        # print(filtered_text)
+        filtered_text = ''.join([char if char in "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789:-/*@. " else '' for char in filtered_text])
+        print(filtered_text)
 
         return filtered_text
     except Exception as e:

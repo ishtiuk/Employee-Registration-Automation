@@ -129,8 +129,8 @@ def main_content(image_file, face_image_file):
                     logging.error(f"Error using GenAI for information extraction: {e}")
                     text_info = extract_information_regex(extracted_text)
                     logging.info("Fallback to information extraction (Regex)")
-                    
                 # print(get_face_embeddings(face_image_path1))
+                    
                 text_info['Embedding'] = get_face_embeddings(face_image_path1)              
                 logging.info("Text extracted and information parsed from ID card.")
                 

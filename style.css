@@ -6,7 +6,7 @@ body {
     background-color: #272731;
 }
 [data-testid="stDecoration"] {
-    background: linear-gradient(45deg, cyan, rgb(255, 70, 101));
+    background: linear-gradient(45deg, cyan, rgb(126, 70, 255));
 }
 
 [data-testid="stApp"] {
